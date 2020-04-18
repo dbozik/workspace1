@@ -1,0 +1,3 @@
+[submodule "apps/customer-portal"]
+	path = apps/customer-portal
+	url = C:/Users/Dano/Documents/programming/angular 5/architecture/monorepo/customer-portal

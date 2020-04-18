@@ -25,6 +25,13 @@
     "admin-portal-e2e": {
       "tags": [],
       "implicitDependencies": ["admin-portal"]
+    },
+    "order-portal": {
+      "tags": []
+    },
+    "order-portal-e2e": {
+      "tags": [],
+      "implicitDependencies": ["order-portal"]
     }
   }
 }
