@@ -1,3 +1,6 @@
 [submodule "apps/app1"]
 	path = apps/app1
 	url = https://github.com/dbozik/app1.git
+[submodule "apps/booking-portal"]
+	path = apps/booking-portal
+	url = https://github.com/dbozik/booking-portal.git

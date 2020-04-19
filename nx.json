@@ -32,6 +32,13 @@
     "order-portal-e2e": {
       "tags": [],
       "implicitDependencies": ["order-portal"]
+    },
+    "booking-portal": {
+      "tags": []
+    },
+    "booking-portal-e2e": {
+      "tags": [],
+      "implicitDependencies": ["booking-portal"]
     }
   }
 }
